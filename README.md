@@ -109,6 +109,7 @@ Check solve section for steganography.
 *Tools used for solving Crypto challenges*
 
 - [CyberChef](https://gchq.github.io/CyberChef) - Web app for analysing and decoding data.
+- [CryptoKit](https://cryptokit-nine.vercel.app) - Privacy-first browser-based CTF crypto workbench with 30+ tools: auto-solver, hash identifier, JWT inspector, RSA attacks, XOR analyzer, Vigenère cracker, and LSB steganography — runs entirely in the browser with no backend.
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool.
 - [Hash Extender](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks.
 - [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - A CLI tool to execute padding oracle attacks.
@@ -117,7 +118,6 @@ Check solve section for steganography.
 - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack.
 - [RSATool](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q.
 - [XORTool](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher.
-- [CryptoKit](https://cryptokit-nine.vercel.app) - Privacy-first browser-based CTF crypto workbench with 30+ tools: auto-solver, hash identifier, JWT inspector, RSA attacks, XOR analyzer, Vigenère cracker, and LSB steganography — runs entirely in the browser with no backend.
 
 ## Bruteforcers
 
